@@ -1,0 +1,14 @@
+{
+  "name": "electron-boilerplate-vue",
+  "productName": "视空画板对前瞻记忆的影响",
+  "version": "0.1.0",
+  "description": "An Electron + Vue.js project.",
+  "author": "Brad Stewart <me@bradstewart.co>",
+  "main": "background.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "2.2.2",
+    "vue-router": "^0.7.13",
+    "vue-strap": "^1.0.7"
+  }
+}
